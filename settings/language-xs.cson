@@ -1,0 +1,9 @@
+'.source.xs':
+  'editor':
+    'foldEndPattern': '(\\*/|^\\s*(\\}|\\]|\\)))'
+    'increaseIndentPattern': '^.*\\{\\}?\\s*$'
+    'decreaseIndentPattern': '^\\s*\\}'
+    'commentStart': ' # '
+    'commentDelimiters':
+      'line': '#'
+    'nonWordCharacters': '/\\()"\':,.;<>~!#^&*|+=[]{}`?-'

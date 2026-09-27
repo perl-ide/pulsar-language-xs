@@ -1,0 +1,30 @@
+{
+  "name": "pulsar-language-xs",
+  "version": "1.0.0",
+  "description": "Pulsar syntax highlighting for Perl-XS",
+  "main": "index.js",
+  "scripts": {
+    "test": "pulsar --test spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perl-ide/pulsar-language-xs.git"
+  },
+  "author": "Rawley Fowler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perl-ide/pulsar-language-xs/issues"
+  },
+  "engines": {
+    "node": "*",
+    "atom": "*"
+  },
+  "keywords": [
+    "pulsar",
+    "tree-sitter"
+  ],
+  "homepage": "https://github.com/perl-ide/pulsar-language-xs#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
