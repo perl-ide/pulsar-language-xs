@@ -26,8 +26,7 @@
   "homepage": "https://github.com/perl-ide/pulsar-language-xs#readme",
   "devDependencies": {
     "jest": "^30.5.2"
-  }
-
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/perl-ide/pulsar-language-xs"
