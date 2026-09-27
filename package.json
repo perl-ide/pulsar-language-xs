@@ -1,6 +1,6 @@
 {
   "name": "pulsar-language-xs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pulsar syntax highlighting for Perl-XS",
   "main": "index.js",
   "scripts": {
